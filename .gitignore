@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+advisorchatbotmodel.tf
+.env
+.DS_store
